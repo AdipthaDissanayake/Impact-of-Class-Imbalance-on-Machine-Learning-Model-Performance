@@ -21,6 +21,6 @@ Models trained on imbalanced datasets tend to favor the majority class, leading 
 ## 🚀 How to Run
 1. Open RStudio
 2. Run scripts in order:
-   - data_preprocessing.R
-   - model_training.R
-   - evaluation.R
+   - data creation.R
+   - Performance Testing.R
+ 
